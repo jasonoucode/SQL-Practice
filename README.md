@@ -7,3 +7,4 @@ File                 | About
 ---------------------| ------------------------------------------
 CustomersOrders.sql  | One to Many + Inner, Left, and Right Joins
 StudentsPapers.sql   | One to Many + Inner, Left, and Right Joins
+ReviewsMovies.sql    | Many to Many + Inner, Left, and Right Joins
