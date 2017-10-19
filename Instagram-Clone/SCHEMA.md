@@ -7,3 +7,32 @@
 |created_at  |
 
 
+|**PHOTOS**  |
+|------------|
+|id          |
+|image_url   |
+|user_id     |
+|created_at  |
+
+
+|**COMMENTS**  |
+|--------------|
+|id            |
+|comment_text  |
+|user_id       |
+|photo_id      |
+|created_at    |
+
+
+|**LIKES**  |
+|-----------|
+|user_id    |
+|photo_id   |
+|created_at |
+
+
+|**FOLLOWS** |
+|------------|
+|follower_id |
+|followee_id |
+|created_at  |
