@@ -1,11 +1,14 @@
 # Instagram Clone - Schema
 
+---
+
 |**USERS**   |
 |------------|
 |id          |
 |username    |
 |created_at  |
 
+---
 
 |**PHOTOS**  |
 |------------|
@@ -14,6 +17,7 @@
 |user_id     |
 |created_at  |
 
+---
 
 |**COMMENTS**  |
 |--------------|
@@ -23,6 +27,7 @@
 |photo_id      |
 |created_at    |
 
+---
 
 |**LIKES**  |
 |-----------|
@@ -30,9 +35,27 @@
 |photo_id   |
 |created_at |
 
+---
 
 |**FOLLOWS** |
 |------------|
 |follower_id |
 |followee_id |
 |created_at  |
+
+---
+
+|**TAGS**    |
+|------------|
+|id          |
+|tag_name    |
+|created_at  |
+
+---
+
+|**PHOTO_TAGS** |
+|---------------|
+|photo_id       |
+|tag_id         |
+
+
