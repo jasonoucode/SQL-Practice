@@ -9,3 +9,4 @@ CustomersOrders.sql  | One to Many + Inner, Left, and Right Joins
 StudentsPapers.sql   | One to Many + Inner, Left, and Right Joins
 ReviewsMovies.sql    | Many to Many + Inner, Left, and Right Joins
 /Instagram-Clone	 | Ultimate test of knowldege in regards to SQL
+/Join-Us-Email...    | Email subscription app to test NodeJS + MySQL
