@@ -9,3 +9,4 @@ SCHEMA.md            | Schema used to define tables
 schema.sql           | Database/Tables set up using SCHEMA as reference
 app.js               | NodeJS app that connects to sql db using MySQL and generates 500 fake users
 queries.sql          | Real life situations translated to queries
+/Join-Us-Web-App	 | Email gathering waitlist web application using nodejs, express, mysql
