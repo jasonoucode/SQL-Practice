@@ -45,6 +45,14 @@
 
 ---
 
+|**UNFOLLOWS** |
+|--------------|
+|follower_id   |
+|followee_id   |
+|created_at    |
+
+---
+
 |**TAGS**    |
 |------------|
 |id          |
